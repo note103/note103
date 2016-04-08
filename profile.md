@@ -21,7 +21,7 @@
   - [Slide: はじまりのPerl](https://speakerdeck.com/note103/hazimarifalseperl)
 - 2016-01-15 @[吉祥寺.pm6](http://kichijojipm.connpass.com/event/23882/)
   - [Slide: ぼんやりした大人が趣味でプログラミングを始めたら](http://www.slideshare.net/note103/ss-57081663)
-  - [関連記事](http://note103.hateblo.jp/entry/2016/01/17/143231)
+  - [ふりかえりブログ記事](http://note103.hateblo.jp/entry/2016/01/17/143231)
 
 ## Events
 - [commmons: schola vol.11『アフリカの伝統音楽』発売記念試聴会](http://www.commmons.com/whatsnew/artists/sakamotoryuichi/201211150811.html)
