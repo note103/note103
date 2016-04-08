@@ -10,8 +10,8 @@
     - http://note103.hatenablog.com/
 
 ## Works
-- [commmons: schola （CDブック編集/制作）](http://commmons.com/schola/index.html)
 - [大谷能生のフランス革命 （共編著）](http://www.amazon.co.jp/dp/4753102580/nootonooto-22/)
+- [commmons: schola （CDブック編集/制作）](http://commmons.com/schola/index.html)
 - [YCAM（山口情報芸術センター）Webサイトリニューアル](http://www.allianceport.jp/news/2015/12/ycam-web-renewal-2015.html)
 
 ## Talks
@@ -42,6 +42,6 @@
 - 2009年9月（33）: イギリスの古楽アンサンブル [Fretwork](http://www.fretwork.co.uk/)『[The Silken Tent](http://www.fretwork.co.uk/portfolio/the-silken-tent-with-clare-wilkinson/)』発売（国内盤ディレクション担当）
 - 2013年9月（38）: Perl入学式＋YAPC::Asia 初参加
 - 2015年8月（40）: [YCAM](http://www.ycam.jp/) Webサイト・リニューアル・プロジェクト（テキスト編集担当）
-    - [関連記事](http://note103.hateblo.jp/entry/2015/08/29/170839)
+    - [ふりかえりブログ記事](http://note103.hateblo.jp/entry/2015/08/29/170839)
 
 
