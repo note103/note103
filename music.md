@@ -13,13 +13,16 @@
 1. Paul Simon - Love and Hard Times, Best Old Version
     - https://www.youtube.com/watch?v=1CMvr19u2OU
 
+1. Maxwell - Fortunate
+    - https://www.youtube.com/watch?v=i0fAEJQtqnU
+
 1. The Four Seasons - December, 1963 (Oh, What a Night)
     - https://www.youtube.com/watch?v=liyiT_DGREA
 
 1. Double Exposure - My Love Is Free
   - https://www.youtube.com/watch?v=TEf3tZmgKiQ
 
-1. Debarge- I Like It
+1. Debarge - I Like It
     - https://www.youtube.com/watch?v=VqaKisKIyUo
 
 1. SWV - You're The One
@@ -31,6 +34,5 @@
 1. Christina Aguilera - Beautiful
   - https://www.youtube.com/watch?v=eAfyFTzZDMM
 
-1. Work to do
+1. Isley Brothers - Work to do
   - https://www.youtube.com/watch?v=08tYrBCgXlU
-
