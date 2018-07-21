@@ -4,8 +4,7 @@
 
 （2018-03-03 @[YAPC::Okinawa](http://yapcjapan.org/2018okinawa/)）
 
-- 1975生
-- 千葉県千葉市出身
+- 1975年/千葉県生
 - Twitter: [@note103](https://twitter.com/note103)
 - Blog
   - 雑記: [http://note103.hateblo.jp/](http://note103.hateblo.jp/)
