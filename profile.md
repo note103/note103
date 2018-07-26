@@ -7,8 +7,8 @@
 - 1975年 / 千葉県生
 - Twitter: [@note103](https://twitter.com/note103)
 - Blog
-  - 雑記: [http://note103.hateblo.jp/](http://note103.hateblo.jp/)
-  - プログラミング関連: [http://note103.hatenablog.com/](http://note103.hatenablog.com/)
+  - 雑記: [http://note103.hatenablog.com/](http://note103.hatenablog.com/)
+  - プログラミング関連: [http://note103.hateblo.jp/](http://note103.hateblo.jp/)
 
 ## 仕事
 - 2004-2005: [菊地成孔＋大谷能生著『東京大学のアルバート・アイラー](https://www.amazon.co.jp/dp/4944124198)』（メディア総合研究所）
