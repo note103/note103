@@ -50,3 +50,5 @@
   - スライド: [The Non-Programmer's Programming Techniques // Speaker Deck](https://speakerdeck.com/note103/the-non-programmers-programming-techniques)
   - ブログ: [ノンプログラマーのプログラミング活用法 - the code to rock](http://note103.hateblo.jp/entry/2018/03/23/132120)
   - 再現動画: [ノンプログラマーのプログラミング活用法 - YouTube](https://www.youtube.com/watch?v=jJZD3k6-q0c)
+- 2019-01-26: [YAPC::Tokyo 2019](https://yapcjapan.org/2019tokyo/)
+  - スライド: [自走するプログラミング入門者の探し方 - Speaker Deck](https://speakerdeck.com/note103/zi-zou-surupuroguraminguru-men-zhe-falsetan-sifang)
